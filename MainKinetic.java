@@ -2,14 +2,12 @@
  * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
  * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
  */
-package livecoding;
-
+package livecoding2;
 import java.util.Scanner;
-
 /**
  *
- * @author Muhammad Rafa Ruchmadiananta-22104410061-Teknik
- * informatika-Universitas Islam Balitar
+ * @author Nabillah Rachelia Meyshita-22104410050-Teknik informatika-Universitas
+ * Islam Balitar
  */
 public class MainKinetic {
 
@@ -53,4 +51,3 @@ public class MainKinetic {
     }
     
 }
-
